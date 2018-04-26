@@ -1,6 +1,6 @@
 # Introduction-to-self-driving-car-nanodegree
 
-##### ** This is a repository documenting my work on the Udacity Nanodegree (Introduction to Self Driving Cars).**
+##### **This is a repository documenting my work on the Udacity Nanodegree (Introduction to Self Driving Cars).**
 
 * Matrix manipulation: Implemented a matrix class to perform various matrix operations(addition,subtraction,multiplication,inverse,transpose,determinant). 
 
