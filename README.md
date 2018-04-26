@@ -2,7 +2,7 @@
 
 ##### **This is a repository documenting my work on the Udacity Nanodegree (Introduction to Self Driving Cars).**
 
-* Matrix manipulation: Implemented a matrix class to perform various matrix operations(addition,subtraction,multiplication,inverse,transpose,determinant). 
+* Matrix manipulation: Implemented a matrix class to perform various matrix operations(addition, subtraction, multiplication, inverse, transpose, determinant). 
 
 * 2-D Histogram filter: Created a two dimensional filter in C++.
 
